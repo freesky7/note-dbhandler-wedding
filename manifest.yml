@@ -1,0 +1,4 @@
+applications:
+  - name: windturbine-dbhandler
+    buildpack: java_buildpack
+    path: target/dbhandler-0.0.1.jar
